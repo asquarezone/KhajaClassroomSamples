@@ -4,3 +4,6 @@
 [submodule "MultiCloud/developer"]
 	path = MultiCloud/developer
 	url = https://github.com/asquarezone/MultiCloud-Developer.git
+[submodule "GenAI/python"]
+	path = GenAI/python
+	url = https://github.com/GenAIDevelopment/PythonFoundations.git
