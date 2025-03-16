@@ -1,0 +1,6 @@
+[submodule "MultiCloud/admin"]
+	path = MultiCloud/admin
+	url = https://github.com/asquarezone/MultiCloud-admin.git
+[submodule "MultiCloud/developer"]
+	path = MultiCloud/developer
+	url = https://github.com/asquarezone/MultiCloud-Developer.git
